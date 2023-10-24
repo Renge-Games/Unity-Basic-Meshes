@@ -1,0 +1,22 @@
+{
+    "name": "com.renge.basicmeshes",
+    "version": "0.0.1",
+    "displayName": "Basic Meshes",
+    "description": "A package to extend the number of mesh shapes to create in Unity",
+    "unity": "2022.1",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+   },
+   "keywords": [
+        "basic meshes",
+        "mesh",
+        "shapes"
+    ],
+    "author": {
+      "name": "Sam Schiffer",
+      "email": "support@rengegames.com",
+      "url": "https://www.unity3d.com"
+    }
+  }
